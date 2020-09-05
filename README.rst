@@ -2,6 +2,8 @@
 imagecompare
 ============
 
+.. image:: docs/imagecomparison.png
+
 Description
 ===========
 
