@@ -53,3 +53,4 @@ Observations
 - From the big data, the image 00628 and 00010 are generating the same average hash
 - TODO: Need to go into the details that why average hash is generating the same hash value for these images.
 - These images were of 128x128. Check by taking the same images of 1024x1024 and see if the image hash is still same.
+- TODO: For scalability and speed/performance write the implementation in Rust
