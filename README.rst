@@ -1,5 +1,5 @@
 ============
-imagecompare
+image-search
 ============
 
 .. image:: docs/imagecomparison.png
