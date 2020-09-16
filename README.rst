@@ -7,7 +7,7 @@ image-search
 Description
 ===========
 
-imagecomare is the software which takes image as input and generates the image hash and
+image-search is the software which takes image as input and generates the image hash and
 comppares that hash with the lookup table to check if the image is already present or not
 as output it returns the name of the image from the lookup table.
 
@@ -19,12 +19,6 @@ Major two parts of implementation
     - database of <imagehash>:<imagename>:<imagedata>
     - database will be hdf5
     - api interface for the lookuptable
-
-
-- Image compare
-
-
-
 
 Lookup Table
 ============
